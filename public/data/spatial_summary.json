@@ -1,0 +1,704 @@
+{
+  "city_name": "Kota Cimahi",
+  "province": "Jawa Barat",
+  "total_area_ha": 4078.36,
+  "city_center": [
+    107.5437,
+    -6.886892
+  ],
+  "city_bounds": [
+    107.510434,
+    -6.932873,
+    107.576126,
+    -6.831498
+  ],
+  "kelurahan_list": [
+    {
+      "kelurahan": "Kel. Cibeber",
+      "kecamatan": "Cimahi Selatan",
+      "center": [
+        107.519812,
+        -6.893657
+      ],
+      "bounds": [
+        107.510434,
+        -6.906226,
+        107.528119,
+        -6.879406
+      ]
+    },
+    {
+      "kelurahan": "Kel. Cibeureum",
+      "kecamatan": "Cimahi Selatan",
+      "center": [
+        107.558891,
+        -6.907534
+      ],
+      "bounds": [
+        107.549335,
+        -6.917738,
+        107.568972,
+        -6.896337
+      ]
+    },
+    {
+      "kelurahan": "Kel. LeuwiGajah",
+      "kecamatan": "Cimahi Selatan",
+      "center": [
+        107.527087,
+        -6.906686
+      ],
+      "bounds": [
+        107.516877,
+        -6.921212,
+        107.536225,
+        -6.890998
+      ]
+    },
+    {
+      "kelurahan": "Kel. Melong",
+      "kecamatan": "Cimahi Selatan",
+      "center": [
+        107.555715,
+        -6.921573
+      ],
+      "bounds": [
+        107.542332,
+        -6.932873,
+        107.565571,
+        -6.911161
+      ]
+    },
+    {
+      "kelurahan": "Kel. Utama",
+      "kecamatan": "Cimahi Selatan",
+      "center": [
+        107.541534,
+        -6.908682
+      ],
+      "bounds": [
+        107.531122,
+        -6.921312,
+        107.55236,
+        -6.894528
+      ]
+    },
+    {
+      "kelurahan": "Kel. Baros",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.538024,
+        -6.891732
+      ],
+      "bounds": [
+        107.52661,
+        -6.901157,
+        107.548197,
+        -6.882894
+      ]
+    },
+    {
+      "kelurahan": "Kel. Cigugur Tengah",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.551376,
+        -6.89336
+      ],
+      "bounds": [
+        107.543416,
+        -6.906852,
+        107.560481,
+        -6.880546
+      ]
+    },
+    {
+      "kelurahan": "Kel. Cimahi",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.544584,
+        -6.871983
+      ],
+      "bounds": [
+        107.538382,
+        -6.876379,
+        107.551766,
+        -6.867539
+      ]
+    },
+    {
+      "kelurahan": "Kel. Karangmekar",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.543028,
+        -6.880922
+      ],
+      "bounds": [
+        107.534036,
+        -6.887878,
+        107.550572,
+        -6.873302
+      ]
+    },
+    {
+      "kelurahan": "Kel. Padasuka",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.528731,
+        -6.875457
+      ],
+      "bounds": [
+        107.518743,
+        -6.888733,
+        107.54256,
+        -6.865047
+      ]
+    },
+    {
+      "kelurahan": "Kel. Setiamanah",
+      "kecamatan": "Cimahi Tengah",
+      "center": [
+        107.535475,
+        -6.877974
+      ],
+      "bounds": [
+        107.529447,
+        -6.887193,
+        107.541666,
+        -6.870928
+      ]
+    },
+    {
+      "kelurahan": "Kel. Cibabat",
+      "kecamatan": "Cimahi Utara",
+      "center": [
+        107.557655,
+        -6.876013
+      ],
+      "bounds": [
+        107.546698,
+        -6.890054,
+        107.566379,
+        -6.859492
+      ]
+    },
+    {
+      "kelurahan": "Kel. Cipageran",
+      "kecamatan": "Cimahi Utara",
+      "center": [
+        107.541918,
+        -6.850274
+      ],
+      "bounds": [
+        107.522983,
+        -6.868592,
+        107.554957,
+        -6.831498
+      ]
+    },
+    {
+      "kelurahan": "Kel. Citeureup",
+      "kecamatan": "Cimahi Utara",
+      "center": [
+        107.551662,
+        -6.861343
+      ],
+      "bounds": [
+        107.542404,
+        -6.871483,
+        107.562453,
+        -6.847292
+      ]
+    },
+    {
+      "kelurahan": "Kel. Pasirkaliki",
+      "kecamatan": "Cimahi Utara",
+      "center": [
+        107.567831,
+        -6.884571
+      ],
+      "bounds": [
+        107.560267,
+        -6.893817,
+        107.576126,
+        -6.874896
+      ]
+    }
+  ],
+  "rtrw": {
+    "title": "RTRW Kota Cimahi 2024-2044 (Perda No. 4/2024)",
+    "total_features": 1367,
+    "pola_ruang": [
+      {
+        "namobj": "Kawasan Perumahan",
+        "count": 319,
+        "area_ha": 2221.59
+      },
+      {
+        "namobj": "Kawasan Peruntukan Industri",
+        "count": 77,
+        "area_ha": 531.05
+      },
+      {
+        "namobj": "Rimba Kota",
+        "count": 220,
+        "area_ha": 365.72
+      },
+      {
+        "namobj": "Kawasan Perdagangan dan Jasa",
+        "count": 117,
+        "area_ha": 315.62
+      },
+      {
+        "namobj": "Kawasan Pertahanan dan Keamanan",
+        "count": 68,
+        "area_ha": 309.96
+      },
+      {
+        "namobj": "Kawasan Hortikultura",
+        "count": 43,
+        "area_ha": 132.36
+      },
+      {
+        "namobj": "Kawasan Fasilitas Umum dan Fasilitas Sosial",
+        "count": 45,
+        "area_ha": 83.17
+      },
+      {
+        "namobj": "Jalur Hijau",
+        "count": 100,
+        "area_ha": 77.46
+      },
+      {
+        "namobj": "Kawasan Tanaman Pangan",
+        "count": 93,
+        "area_ha": 60.65
+      },
+      {
+        "namobj": "Pemakaman",
+        "count": 36,
+        "area_ha": 33.26
+      },
+      {
+        "namobj": "Badan Jalan",
+        "count": 43,
+        "area_ha": 33.02
+      },
+      {
+        "namobj": "Kawasan Perlindungan Setempat",
+        "count": 95,
+        "area_ha": 20.87
+      },
+      {
+        "namobj": "Kawasan Perkantoran",
+        "count": 11,
+        "area_ha": 18.33
+      },
+      {
+        "namobj": "Kawasan Infrastruktur Perkotaan",
+        "count": 23,
+        "area_ha": 10.14
+      },
+      {
+        "namobj": "Badan Air",
+        "count": 29,
+        "area_ha": 10.13
+      },
+      {
+        "namobj": "Kawasan Pariwisata",
+        "count": 6,
+        "area_ha": 5.58
+      },
+      {
+        "namobj": "Taman Kota",
+        "count": 18,
+        "area_ha": 4.56
+      },
+      {
+        "namobj": "Taman Kecamatan",
+        "count": 12,
+        "area_ha": 4.46
+      },
+      {
+        "namobj": "Taman RW",
+        "count": 9,
+        "area_ha": 3.07
+      },
+      {
+        "namobj": "Kawasan Transportasi",
+        "count": 1,
+        "area_ha": 2.68
+      },
+      {
+        "namobj": "Kawasan Peruntukan Pertambangan Batuan",
+        "count": 1,
+        "area_ha": 0.91
+      },
+      {
+        "namobj": "Taman Kelurahan",
+        "count": 1,
+        "area_ha": 0.24
+      }
+    ],
+    "by_kecamatan": {
+      "Kecamatan Cimahi Selatan": [
+        {
+          "NAMOBJ": "Kawasan Perumahan",
+          "area_ha": 845.0
+        },
+        {
+          "NAMOBJ": "Kawasan Peruntukan Industri",
+          "area_ha": 436.96
+        },
+        {
+          "NAMOBJ": "Rimba Kota",
+          "area_ha": 204.54
+        },
+        {
+          "NAMOBJ": "Kawasan Perdagangan dan Jasa",
+          "area_ha": 85.37
+        },
+        {
+          "NAMOBJ": "Jalur Hijau",
+          "area_ha": 35.46
+        },
+        {
+          "NAMOBJ": "Kawasan Pertahanan dan Keamanan",
+          "area_ha": 31.77
+        },
+        {
+          "NAMOBJ": "Kawasan Fasilitas Umum dan Fasilitas Sosial",
+          "area_ha": 25.23
+        },
+        {
+          "NAMOBJ": "Badan Jalan",
+          "area_ha": 17.46
+        },
+        {
+          "NAMOBJ": "Kawasan Tanaman Pangan",
+          "area_ha": 17.1
+        },
+        {
+          "NAMOBJ": "Badan Air",
+          "area_ha": 10.03
+        },
+        {
+          "NAMOBJ": "Pemakaman",
+          "area_ha": 7.95
+        },
+        {
+          "NAMOBJ": "Kawasan Perlindungan Setempat",
+          "area_ha": 7.36
+        },
+        {
+          "NAMOBJ": "Kawasan Infrastruktur Perkotaan",
+          "area_ha": 5.84
+        },
+        {
+          "NAMOBJ": "Kawasan Pariwisata",
+          "area_ha": 4.9
+        },
+        {
+          "NAMOBJ": "Kawasan Hortikultura",
+          "area_ha": 3.23
+        },
+        {
+          "NAMOBJ": "Taman RW",
+          "area_ha": 1.53
+        },
+        {
+          "NAMOBJ": "Kawasan Peruntukan Pertambangan Batuan",
+          "area_ha": 0.91
+        },
+        {
+          "NAMOBJ": "Taman Kota",
+          "area_ha": 0.56
+        }
+      ],
+      "Kecamatan Cimahi Tengah": [
+        {
+          "NAMOBJ": "Kawasan Perumahan",
+          "area_ha": 433.65
+        },
+        {
+          "NAMOBJ": "Kawasan Pertahanan dan Keamanan",
+          "area_ha": 278.18
+        },
+        {
+          "NAMOBJ": "Kawasan Perdagangan dan Jasa",
+          "area_ha": 153.96
+        },
+        {
+          "NAMOBJ": "Kawasan Peruntukan Industri",
+          "area_ha": 91.39
+        },
+        {
+          "NAMOBJ": "Kawasan Fasilitas Umum dan Fasilitas Sosial",
+          "area_ha": 32.13
+        },
+        {
+          "NAMOBJ": "Rimba Kota",
+          "area_ha": 29.29
+        },
+        {
+          "NAMOBJ": "Jalur Hijau",
+          "area_ha": 27.87
+        },
+        {
+          "NAMOBJ": "Badan Jalan",
+          "area_ha": 12.76
+        },
+        {
+          "NAMOBJ": "Pemakaman",
+          "area_ha": 8.24
+        },
+        {
+          "NAMOBJ": "Kawasan Perkantoran",
+          "area_ha": 6.95
+        },
+        {
+          "NAMOBJ": "Kawasan Perlindungan Setempat",
+          "area_ha": 5.03
+        },
+        {
+          "NAMOBJ": "Kawasan Tanaman Pangan",
+          "area_ha": 3.02
+        },
+        {
+          "NAMOBJ": "Kawasan Transportasi",
+          "area_ha": 2.68
+        },
+        {
+          "NAMOBJ": "Taman Kota",
+          "area_ha": 2.1
+        },
+        {
+          "NAMOBJ": "Taman Kecamatan",
+          "area_ha": 1.45
+        },
+        {
+          "NAMOBJ": "Kawasan Infrastruktur Perkotaan",
+          "area_ha": 0.36
+        },
+        {
+          "NAMOBJ": "Taman Kelurahan",
+          "area_ha": 0.24
+        },
+        {
+          "NAMOBJ": "Badan Air",
+          "area_ha": 0.01
+        }
+      ],
+      "Kecamatan Cimahi Utara": [
+        {
+          "NAMOBJ": "Kawasan Perumahan",
+          "area_ha": 942.94
+        },
+        {
+          "NAMOBJ": "Rimba Kota",
+          "area_ha": 131.89
+        },
+        {
+          "NAMOBJ": "Kawasan Hortikultura",
+          "area_ha": 129.13
+        },
+        {
+          "NAMOBJ": "Kawasan Perdagangan dan Jasa",
+          "area_ha": 76.3
+        },
+        {
+          "NAMOBJ": "Kawasan Tanaman Pangan",
+          "area_ha": 40.53
+        },
+        {
+          "NAMOBJ": "Kawasan Fasilitas Umum dan Fasilitas Sosial",
+          "area_ha": 25.81
+        },
+        {
+          "NAMOBJ": "Pemakaman",
+          "area_ha": 17.07
+        },
+        {
+          "NAMOBJ": "Jalur Hijau",
+          "area_ha": 14.13
+        },
+        {
+          "NAMOBJ": "Kawasan Perkantoran",
+          "area_ha": 11.38
+        },
+        {
+          "NAMOBJ": "Kawasan Perlindungan Setempat",
+          "area_ha": 8.49
+        },
+        {
+          "NAMOBJ": "Kawasan Infrastruktur Perkotaan",
+          "area_ha": 3.94
+        },
+        {
+          "NAMOBJ": "Taman Kecamatan",
+          "area_ha": 3.02
+        },
+        {
+          "NAMOBJ": "Badan Jalan",
+          "area_ha": 2.8
+        },
+        {
+          "NAMOBJ": "Kawasan Peruntukan Industri",
+          "area_ha": 2.7
+        },
+        {
+          "NAMOBJ": "Taman Kota",
+          "area_ha": 1.9
+        },
+        {
+          "NAMOBJ": "Taman RW",
+          "area_ha": 1.55
+        },
+        {
+          "NAMOBJ": "Kawasan Pariwisata",
+          "area_ha": 0.69
+        },
+        {
+          "NAMOBJ": "Badan Air",
+          "area_ha": 0.08
+        }
+      ]
+    }
+  },
+  "kbu": {
+    "title": "Zonasi KBU (Perda No. 2/2016)",
+    "total_features": 13,
+    "zonasi": [
+      {
+        "zona": "Zona B4",
+        "count": 5,
+        "area_ha": 866.63
+      },
+      {
+        "zona": "Zona B5",
+        "count": 3,
+        "area_ha": 670.63
+      },
+      {
+        "zona": "Zona L2",
+        "count": 1,
+        "area_ha": 148.43
+      },
+      {
+        "zona": "Zona B3",
+        "count": 2,
+        "area_ha": 135.15
+      },
+      {
+        "zona": "Zona L1",
+        "count": 2,
+        "area_ha": 97.52
+      }
+    ]
+  },
+  "lbs": {
+    "title": "Lahan Baku Sawah (LBS)",
+    "total_features": 257,
+    "total_area_ha": 127.23,
+    "by_type": [
+      {
+        "jenis_sawah": "Irigasi",
+        "count": 84,
+        "area_ha": 67.12
+      },
+      {
+        "jenis_sawah": "Non Irigasi",
+        "count": 151,
+        "area_ha": 48.06
+      },
+      {
+        "jenis_sawah": "Rawa/Lebak",
+        "count": 1,
+        "area_ha": 0.73
+      },
+      {
+        "jenis_sawah": "Tadah Hujan",
+        "count": 21,
+        "area_ha": 11.32
+      }
+    ]
+  },
+  "lsd": {
+    "title": "Lahan Sawah Dilindungi (LSD)",
+    "total_features": 9114,
+    "total_area_ha": 146.84,
+    "by_kesesuaian": [
+      {
+        "kesesuaian": "KOREKSI",
+        "count": 1423,
+        "area_ha": 12.51
+      },
+      {
+        "kesesuaian": "LSD SESUAI TANAMAN PANGAN",
+        "count": 1022,
+        "area_ha": 34.49
+      },
+      {
+        "kesesuaian": "LSD TIDAK SESUAI TANAMAN PANGAN",
+        "count": 6669,
+        "area_ha": 99.84
+      }
+    ],
+    "by_hasil": [
+      {
+        "hasil": "PENGURANG LSD2",
+        "count": 3726,
+        "area_ha": 53.87
+      },
+      {
+        "hasil": "DIPERTAHANKAN SESUAI RTRW",
+        "count": 986,
+        "area_ha": 33.13
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN PERUMAHAN IRTEK",
+        "count": 725,
+        "area_ha": 13.61
+      },
+      {
+        "hasil": "KOREKSI",
+        "count": 1423,
+        "area_ha": 12.51
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN INFRASKOT NON IR",
+        "count": 593,
+        "area_ha": 11.76
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN PERUMAHAN NON IR",
+        "count": 652,
+        "area_ha": 6.0
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN RIMBAKOTA IRTEK",
+        "count": 226,
+        "area_ha": 5.01
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN INDUSTRI IRTEK",
+        "count": 334,
+        "area_ha": 3.61
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN RIMBA KOTA NON IR",
+        "count": 173,
+        "area_ha": 3.44
+      },
+      {
+        "hasil": "BS DIPERTAHANKAN PS IRTEK",
+        "count": 240,
+        "area_ha": 2.54
+      },
+      {
+        "hasil": "PENGURANG LSD1",
+        "count": 36,
+        "area_ha": 1.36
+      }
+    ]
+  }
+}
